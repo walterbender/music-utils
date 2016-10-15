@@ -6,6 +6,8 @@ The underlying assumption in these examples is that the CSV contains
 opening, low, high, and closing values for a stock. These values are
 converted into hertz.
 
+<img src='https://rawgithub.com/walterbender/music-utils/master/stocks.png'</img>
+
 Usage
 -----
 
